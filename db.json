@@ -1,0 +1,39 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Carrot",
+      "quantity": 1,
+      "minQuantity": 5,
+      "type": "Veggie"
+    },
+    {
+      "id": 2,
+      "name": "Potato",
+      "quantity": 2,
+      "minQuantity": 3,
+      "type": "Veggie"
+    },
+    {
+      "name": "apple",
+      "quantity": "01",
+      "minQuantity": "01",
+      "type": "Fruit",
+      "id": 3
+    },
+    {
+      "name": "Pear",
+      "quantity": "2",
+      "minQuantity": "3",
+      "type": "Fruit",
+      "id": 4
+    },
+    {
+      "name": "Red Potato",
+      "quantity": "10",
+      "minQuantity": "5",
+      "type": "Vegetable",
+      "id": 5
+    }
+  ]
+}
